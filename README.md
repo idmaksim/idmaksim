@@ -1,6 +1,6 @@
 # Hi there 👋
 ## :sleeping: About me
-I am studying at the College of Communications No. 54 in the specialty "Information Systems and Programming". 
+I am studying at the **College of Communications No. 54** in the specialty "*Information Systems and Programming*". 
 
 I got carried away with development at school, so after the 9th grade I made a conscious decision to start professional education in this field (contrary to the established traditions in society, I languish for two more years at school and go to university).
 
