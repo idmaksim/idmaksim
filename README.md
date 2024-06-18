@@ -28,3 +28,5 @@ I am responsible for the backend (API) for mobile and web applications
 - Deep learning :white_check_mark:
 - Neural networks :white_check_mark:
 - Data science :white_check_mark:
+## :bar_chart: Some statistics
+![LeetCode Stats](https://leetcard.jacoblin.cool/dmaksim?theme=nord&font=ABeeZee&ext=heatmap)
