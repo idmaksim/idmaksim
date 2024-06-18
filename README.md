@@ -17,11 +17,11 @@ In addition to hackathons, our team is also involved in the development of an on
 I am responsible for the backend (API) for mobile and web applications
 ## :hammer: Stack
 - Python (3.1x) :snake:
-- Docker 📦
+- Docker :whale2:
 - PostgreSQL 🐘
 - C++ ⚙️
 - FastAPI ⚡
-- 
+- Golang :panda_face:
 ## Interesting in
 - Backend :white_check_mark:
 - Machine learning :white_check_mark:
