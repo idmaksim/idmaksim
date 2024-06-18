@@ -20,20 +20,10 @@ I am responsible for the backend (API) for mobile and web applications
 - Docker 📦
 - PostgreSQL 🐘
 - C++ ⚙️
-- FastAPI :gem:
-
-
-<!--
-**idmaksim/idmaksim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- FastAPI ⚡
+- 
+## Interesting in
+- Backend :white_check_mark:
+- Machine learning :white_check_mark:
+- Deep learning :white_check_mark:
+- Neural networks :white_check_mark:
