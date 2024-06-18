@@ -27,3 +27,4 @@ I am responsible for the backend (API) for mobile and web applications
 - Machine learning :white_check_mark:
 - Deep learning :white_check_mark:
 - Neural networks :white_check_mark:
+- Data science :bar_chart:
