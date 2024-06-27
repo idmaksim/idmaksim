@@ -24,7 +24,7 @@ I am responsible for the backend (API) for mobile and web applications
 - PostgreSQL 🐘
 - Docker :whale2:
 - C++ ⚙️
-- Golang :bear:
+  
 ## :shipit: Interesting in
 - Backend :white_check_mark:
 - Machine learning :white_check_mark:
