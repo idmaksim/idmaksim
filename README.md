@@ -16,7 +16,7 @@ In addition to hackathons, our team is also involved in the development of an on
 
 I am responsible for the backend (API) for mobile and web applications
 ## :hammer: Current Stack
-- Python (3.1x) :snake:
+- Python 3 :snake:
 - FastAPI ⚡
 - Pandas :panda_face:
 - Tensorflow 🧠
