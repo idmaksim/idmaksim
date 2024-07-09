@@ -6,7 +6,7 @@ I got carried away with development at school, so after the 9th grade I made a c
 
 ## :tada: Hackathons 
 - LETS HACK 2024 🥇
-- Школа Будущего 2024 🥇 - not really a hackathon, but come on
+- Школа Будущего 2024 🥇 - not really a hackathon
 - KS54HACK 🥇
 - TULA HACK
 - IT PLEKHANOV CUP
