@@ -8,7 +8,7 @@
   </tr>
   <tr>
     <td>
-      <a href="https://gravitino.ru/">Gravitiono</a>
+      <a href="https://gravitino.ru/">Gravitino</a>
     </td>
   </tr>
   <tr>
