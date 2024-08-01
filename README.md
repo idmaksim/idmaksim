@@ -1,18 +1,26 @@
 # Hi there 👋
 ## :sleeping: About me
-I am studying at the **College of Communications No. 54** in the specialty "*Information Systems and Programming*". 
-
-I got carried away with development at school, so after the 9th grade I made a conscious decision to start professional education in this field (contrary to the established traditions in society, I languish for two more years at school and go to university).
+College of Communications №54 student, who is more interested in working as a backend developer than sitting in pairs
 
 ## :tada: Hackathons 
 - LETS HACK 2024 🥇
-- Школа Будущего 2024 🥇 - not really a hackathon
-- KS54HACK 🥇
 - TULA HACK
 - IT PLEKHANOV CUP
 
 ## :computer: Work experience 
-In addition to hackathons, our team is also involved in the development of an online learning product from our college. 
+<table>
+  <tr>
+    <td>July 2024 - now</td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://gravitino.ru/">Gravitiono</a>
+    </td>
+  </tr>
+  <tr>
+    <td>Python backend developer</td>
+  </tr>
+</table>
 
 I am responsible for the backend (API) for mobile and web applications
 ## :hammer: Current Stack
