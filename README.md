@@ -16,7 +16,7 @@
   </tr>
 </table>
 
-## Languages 💡
+## 💡 Languages
 - Python3 :snake:
 - Golang 🐻
 
