@@ -1,13 +1,7 @@
-# Hi there 👋
-## :sleeping: About me
-College of Communications №54 student, who is more interested in working as a backend developer than sitting in pairs
+## Hey 👋
+I'm Junior backend developer on Python and Golang
 
-## :tada: Hackathons 
-- LETS HACK 2024 🥇
-- TULA HACK
-- IT PLEKHANOV CUP
-
-## :computer: Work experience 
+### :computer: Work experience 
 <table>
   <tr>
     <td>July 2024 - now</td>
@@ -22,18 +16,18 @@ College of Communications №54 student, who is more interested in working as a 
   </tr>
 </table>
 
-I am responsible for the backend (API) for mobile and web applications
-## :hammer: Current Stack
-- Python 3 :snake:
+### :hammer: Current Stack
+- Python3 :snake:
+- Golang 🐻
 - FastAPI ⚡
 - Pandas :panda_face:
 - Tensorflow 🧠
 - PostgreSQL 🐘
 - Docker :whale2:
   
-## :shipit: Interesting in
+### :shipit: Interesting in
 - Backend :white_check_mark:
 - Deep learning :white_check_mark:
 - Neural networks :white_check_mark:
-## :bar_chart: Some statistics
+### :bar_chart: Some statistics
 ![LeetCode Stats](https://leetcard.jacoblin.cool/dmaksim?theme=nord&font=ABeeZee&ext=heatmap)
