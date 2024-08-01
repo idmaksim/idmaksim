@@ -20,10 +20,11 @@
 - Python3 :snake:
 - Golang 🐻
 - FastAPI ⚡
-- Pandas :panda_face:
-- Tensorflow 🧠
+- Django 💰
 - PostgreSQL 🐘
 - Docker :whale2:
+- Tensorflow 🧠
+- AutoML 📚
   
 ## :shipit: Interesting in
 - Backend :white_check_mark:
