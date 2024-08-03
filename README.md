@@ -4,17 +4,20 @@
 ## :computer: Work experience 
 <table>
   <tr>
-    <td>July 2024 - now</td>
+    <th align="center"> Period</th>
+    <td align="center">July 2024 - now</td>
   </tr>
   <tr>
-    <td>
-      <a href="https://gravitino.ru/">Gravitino</a>
-    </td>
+    <th align="center">Company</th>
+    <td align="center"><a href="https://gravitino.ru/>Gravitino">Gravitino</a></td>
   </tr>
   <tr>
-    <td>Python backend developer</td>
+    <th align="center">Position</th>
+    <td align="center">Backend developer</td>
   </tr>
 </table>
+
+
 
 ## 💡 Languages
 - Python3 :snake:
