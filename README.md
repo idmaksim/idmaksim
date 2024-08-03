@@ -1,5 +1,5 @@
 # Hey 👋
-### I'm Junior backend developer on Python and Golang
+### I'm Junior backend developer from Moscow
 
 ## :computer: Work experience 
 <table>
