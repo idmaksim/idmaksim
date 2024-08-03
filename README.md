@@ -9,7 +9,7 @@
   </tr>
   <tr>
     <th align="center">Company</th>
-    <td align="center"><a href="https://gravitino.ru/>Gravitino">Gravitino</a></td>
+    <td align="center"><a href="https://gravitino.ru/">Gravitino</a></td>
   </tr>
   <tr>
     <th align="center">Position</th>
