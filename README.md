@@ -4,7 +4,6 @@
 
 ## 💡 Languages
 - Python3 :snake:
-- Golang 🐻
 
 ## :hammer: Current Stack
 - FastAPI ⚡
