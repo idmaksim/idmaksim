@@ -1,5 +1,5 @@
 # Hey 👋
-### I'm Junior backend developer from Moscow
+### I'm Junior backend developer
 
 
 ## 💡 Languages
