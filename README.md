@@ -3,7 +3,7 @@
 
 
 ## 💡 Languages
-- TypeScript/NodeJS :globe_with_meridians:
+- TypeScript :globe_with_meridians:
 - Python :snake:
 
 ## :hammer: Libraries and Frameworks
