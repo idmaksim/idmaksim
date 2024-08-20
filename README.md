@@ -3,9 +3,11 @@
 
 
 ## 💡 Languages
-- Python3 :snake:
+- TypeScript/NodeJS :globe_with_meridians:
+- Python :snake:
 
-## :hammer: Current Stack
+## :hammer: Libraries and Frameworks
+- Nest JS :wolf:
 - FastAPI ⚡
 - Django 💰
 - PostgreSQL 🐘
