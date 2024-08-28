@@ -8,8 +8,7 @@
 
 ## :hammer: Libraries and Frameworks
 - Nest JS :wolf:
-- FastAPI ⚡
-- Django 💰
+- FastAPI / Django⚡
 - PostgreSQL 🐘
 - Docker :whale2:
 - Tensorflow 🧠
