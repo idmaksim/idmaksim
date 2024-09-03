@@ -1,7 +1,6 @@
 # Hey 👋
 ### I'm Junior backend developer
 -  **[Habr career](https://career.habr.com/idmaksim)**
--  **[Habr](https://habr.com/ru/users/demamaxim/)**
 
 
 ## 💡 Languages
