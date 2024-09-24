@@ -9,11 +9,10 @@
 - Python :snake:
 
 ## :hammer: Libraries and Frameworks
-- Nest JS :wolf:
+- Nest JS :wolf: -> NestJS, PrismaORM, TypeORM, Socket.io 
 - FastAPI / Django⚡
 - PostgreSQL 🐘
 - Docker :whale2:
-- Tensorflow 🧠
 - AutoML 📚
   
 ## :shipit: Interesting in
