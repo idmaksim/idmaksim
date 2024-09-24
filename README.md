@@ -46,23 +46,23 @@
 <details>
 <summary>Text View</summary>
 
-- **scikit-learn** 📚
+- **NodeJS** :leaves:
 - **Nest JS** :wolf:  
-- **FastAPI / Django / DRF**⚡️
-- **PostgreSQL** 🐘
-- **Docker** :whale2:
 - **PrismaORM** :crystal_ball: 
 - **TypeORM** :snail:
-- **Socket.io** :trollface:
-- **SQLAlchemy** :milky_way:
+- **PostgreSQL** 🐘
 - **MongoDB**  :alien:
-- **NodeJS** :leaves:
 - **Redis** :closed_book:
-- **JWT** :key:
-- **RabbitMQ** :rabbit:
-- **TensorFlow** 🧠
+- **Socket.io** :trollface:
+- **Docker** :whale2:
+- **FastAPI / Django / DRF**⚡️
 - **Postman** :mailbox:
+- **RabbitMQ** :rabbit:
+- **JWT** :key:
+- **SQLAlchemy** :milky_way:
 - **Jest** :triangular_flag_on_post:
+- **TensorFlow** 🧠
+- **scikit-learn** 📚
 - **Git** :pencil:
 </details>
 
