@@ -72,6 +72,12 @@
 - **Backend** :white_check_mark::white_check_mark::white_check_mark:
 - **Team leading** :white_check_mark::white_check_mark:
 - **Neural networks** :white_check_mark:
+
+<details>
+<summary><h2> :bar_chart: Some statistics (Click me -_-) </h2></summary>
   
-## :bar_chart: Some statistics
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=idmaksim&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 ![LeetCode Stats](https://leetcard.jacoblin.cool/dmaksim?theme=nord&font=ABeeZee&ext=heatmap)
+
+</details>
