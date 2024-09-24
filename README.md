@@ -20,7 +20,7 @@
 - AutoML 📚
   
 ## :shipit: Interesting in
-- Backend :white_check_mark:
+- Backend :white_check_mark::white_check_mark::white_check_mark:
 - Deep learning :white_check_mark:
 - Neural networks :white_check_mark:
 ## :bar_chart: Some statistics
