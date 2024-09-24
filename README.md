@@ -44,7 +44,7 @@
 
 
 <details>
-<summary>**Text view (more than in the images)**</summary>
+<summary><b>Text view (more than in the images)</b></summary>
 
 - **NodeJS** :leaves:
 - **Nest JS** :wolf:  
