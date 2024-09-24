@@ -1,6 +1,7 @@
 # Hey 👋
 ## Links :calling:
 -  **[Habr career](https://career.habr.com/idmaksim)**
+-  **[Head Hunter resume](https://hh.ru/resume/2cab0c6eff0dc71c610039ed1f79674f754159)**
 
 
 ## 💡 Languages
