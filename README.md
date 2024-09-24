@@ -61,6 +61,7 @@
 - **JWT** :key:
 - **SQLAlchemy** :milky_way:
 - **Jest** :triangular_flag_on_post:
+- **PyTest** :triangular_flag_on_post:
 - **TensorFlow** 🧠
 - **scikit-learn** 📚
 - **Git** :pencil:
