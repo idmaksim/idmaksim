@@ -68,7 +68,7 @@
 </details>
 
   
-## :shipit: Interesting in
+## :shipit: Interested in
 - **Backend** :white_check_mark::white_check_mark::white_check_mark:
 - **Team leading** :white_check_mark::white_check_mark:
 - **Neural networks** :white_check_mark:
