@@ -57,16 +57,13 @@
 - **SQLAlchemy** :milky_way:
 - **Jest** :triangular_flag_on_post:
 - **PyTest** :triangular_flag_on_post:
-- **TensorFlow** 🧠
-- **scikit-learn** 📚
 - **Git** :pencil:
 </details>
 
   
 ## :shipit: Interested in
-- **Backend** :white_check_mark::white_check_mark::white_check_mark:
-- **Team leading** :white_check_mark::white_check_mark:
-- **Neural networks** :white_check_mark:
+- **Backend** :white_check_mark:
+- **Blockchain** :white_check_mark: 
 
 <details>
 <summary><h2> :bar_chart: Some statistics (Click me -_-) </h2></summary>
