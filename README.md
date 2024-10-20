@@ -5,9 +5,10 @@
 <img align="center" src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Junior+backend+developer">
 </p>
 
-## :link: Links 
+## :link: Contacts 
 -  **[Habr career](https://career.habr.com/idmaksim)**
 -  **[Head Hunter](https://hh.ru/resume/2cab0c6eff0dc71c610039ed1f79674f754159)**
+-  **[Telegram](https://t.me/dememaxim)**
 
 
 ## 💡 Languages
