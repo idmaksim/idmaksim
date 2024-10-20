@@ -104,6 +104,7 @@
       <li>Websockets 🛠️</li>
       <li>Ethers.js ♢</li>
       <li>Web3.js 🌐</li>
+      <li>GraphQL ⚛</li>
     </ul>
   </li>
 </ul>
