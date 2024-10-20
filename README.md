@@ -65,21 +65,24 @@
 <details>
 <summary><b>Text view (more than in the images)</b></summary>
 
-- **NodeJS** :leaves:
-- **NestJS** :wolf:  
-- **PrismaORM** :crystal_ball: 
-- **TypeORM** :snail:
-- **PostgreSQL** 🐘
-- **MongoDB**  :alien:
-- **Redis** :closed_book:
-- **Socket.io** :trollface:
-- **Docker** :whale2:
+- **NestJS** :wolf:
+- **Express.js** 🚅  
+- **Node.js** :leaves:
 - **FastAPI**⚡️
-- **Postman** :mailbox:
-- **RabbitMQ / Apache Kafka** :rabbit:
+- **Prisma** :crystal_ball: 
+- **TypeORM** :snail:
 - **JWT** :key:
-- **Jest** :triangular_flag_on_post:
-- **PyTest** :triangular_flag_on_post:
+- Sequelize 🧊
+- **Socket.io** :trollface:
+- **PostgreSQL** 🐘
+- **RabbitMQ / Apache Kafka** :rabbit:
+- **Redis** :closed_book:
+- **MongoDB**  :alien:
+- **Docker** :whale2:
+- **Postman** :mailbox:
+- **Ethereum** ♢
+- **Web3.js** 🌐
+- **Jest / Pytest** :triangular_flag_on_post:
 - **Git** :pencil:
 </details>
 
