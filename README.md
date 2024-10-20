@@ -98,7 +98,7 @@
     <ul>
       <li>JWT 🔑</li>
       <li>OAuth2 🔐</li>
-      <li>Socket.io 😈</li>
+      <li>Socket.io :trollface::</li>
       <li>Websockets 🛠️</li>
       <li>Ethers.js ♢</li>
       <li>Web3.js 🌐</li>
