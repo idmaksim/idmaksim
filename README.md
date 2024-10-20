@@ -72,6 +72,7 @@
       <li>Prisma 🔮</li>
       <li>TypeORM 🐌</li>
       <li>Sequelize 🧊</li>
+      <li>Tortoise-ORM 🐢</li>
     </ul>
   </li>
   <li><strong>Message Brokers</strong>
