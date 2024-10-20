@@ -65,7 +65,7 @@
 - **Redis** :closed_book:
 - **MongoDB**  :alien:
 - **Docker** :whale2:
-- **Elasticsearch** ⌕
+- **Elasticsearch** 🔎
 - **Postman** :mailbox:
 - **Ethers.js** ♢
 - **Web3.js** 🌐
