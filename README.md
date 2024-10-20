@@ -48,20 +48,6 @@
 ![Web3.js](https://img.shields.io/badge/web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white)
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 <details>
 <summary><b>Text view (more than in the images)</b></summary>
 
@@ -79,8 +65,9 @@
 - **Redis** :closed_book:
 - **MongoDB**  :alien:
 - **Docker** :whale2:
+- **Elasticsearch** ⌕
 - **Postman** :mailbox:
-- **Ethereum** ♢
+- **Ethers.js** ♢
 - **Web3.js** 🌐
 - **Jest / Pytest** :triangular_flag_on_post:
 - **Git** :pencil:
