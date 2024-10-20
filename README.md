@@ -21,7 +21,7 @@
   ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 ## :hammer: Technologies, Libraries and Frameworks
-![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
+![Nest.js](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
@@ -97,9 +97,10 @@
   </li>
   <li><strong>Other Technologies</strong>
     <ul>
+      <li>Node.js 🍃</li>
       <li>JWT 🔑</li>
       <li>OAuth2 🔐</li>
-      <li>Socket.io :trollface:</li>
+      <li>Socket.io 🔌</li>
       <li>Websockets 🛠️</li>
       <li>Ethers.js ♢</li>
       <li>Web3.js 🌐</li>
