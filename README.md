@@ -52,9 +52,8 @@
 - **Docker** :whale2:
 - **FastAPI**⚡️
 - **Postman** :mailbox:
-- **RabbitMQ** :rabbit:
+- **RabbitMQ / Apache Kafka** :rabbit:
 - **JWT** :key:
-- **SQLAlchemy** :milky_way:
 - **Jest** :triangular_flag_on_post:
 - **PyTest** :triangular_flag_on_post:
 - **Git** :pencil:
