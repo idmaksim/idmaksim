@@ -97,6 +97,7 @@
   <li><strong>Other Technologies</strong>
     <ul>
       <li>JWT 🔑</li>
+      <li>OAuth2 🔐</li>
       <li>Socket.io 😈</li>
       <li>Websockets 🛠️</li>
       <li>Ethers.js ♢</li>
