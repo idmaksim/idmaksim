@@ -8,7 +8,7 @@
 ## :link: Contacts 
 -  **[Habr career](https://career.habr.com/idmaksim)**
 -  **[Head Hunter](https://hh.ru/resume/2cab0c6eff0dc71c610039ed1f79674f754159)**
--  **[Telegram](https://t.me/dememaxim)**
+-  **[Telegram](https://t.me/demamaxim)**
 
 
 ## 💡 Languages
