@@ -49,28 +49,60 @@
 
 
 <details>
-<summary><b>Text view (more than in the images)</b></summary>
+<summary><h3>Text view (more than in the images)</b></summary>
 
-- **NestJS** :wolf:
-- **Express.js** 🚅  
-- **Node.js** :leaves:
-- **FastAPI**⚡️
-- **Prisma** :crystal_ball: 
-- **TypeORM** :snail:
-- **JWT** :key:
-- Sequelize 🧊
-- **Socket.io** :trollface:
-- **PostgreSQL** 🐘
-- **RabbitMQ / Apache Kafka** :rabbit:
-- **Redis** :closed_book:
-- **MongoDB**  :alien:
-- **Docker** :whale2:
-- **Elasticsearch** 🔎
-- **Postman** :mailbox:
-- **Ethers.js** ♢
-- **Web3.js** 🌐
-- **Jest / Pytest** :triangular_flag_on_post:
-- **Git** :pencil:
+<ul>
+  <li><strong>Frameworks</strong>
+    <ul>
+      <li>NestJS 🐺</li>
+      <li>Express.js 🚅</li>
+      <li>FastAPI ⚡️</li>
+    </ul>
+  </li>
+  <li><strong>Databases</strong>
+    <ul>
+      <li>PostgreSQL 🐘</li>
+      <li>MongoDB 👽</li>
+      <li>Redis 📕</li>
+      <li>Elasticsearch 🔎</li>
+    </ul>
+  </li>
+  <li><strong>ORMs</strong>
+    <ul>
+      <li>Prisma 🔮</li>
+      <li>TypeORM 🐌</li>
+      <li>Sequelize 🧊</li>
+    </ul>
+  </li>
+  <li><strong>Message Brokers</strong>
+    <ul>
+      <li>RabbitMQ 🐰</li>
+      <li>Apache Kafka 🖧</li>
+    </ul>
+  </li>
+  <li><strong>Tools</strong>
+    <ul>
+      <li>Docker 🐳</li>
+      <li>Git ✏️</li>
+      <li>Postman 📬</li>
+    </ul>
+  </li>
+  <li><strong>Testing Tools</strong>
+    <ul>
+      <li>Jest 🧪</li>
+      <li>Pytest 🚩</li>
+    </ul>
+  </li>
+  <li><strong>Other Technologies</strong>
+    <ul>
+      <li>JWT 🔑</li>
+      <li>Socket.io 😈</li>
+      <li>Websockets 🛠️</li>
+      <li>Ethers.js ♢</li>
+      <li>Web3.js 🌐</li>
+    </ul>
+  </li>
+</ul>
 </details>
 
   
