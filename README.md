@@ -58,7 +58,6 @@
     <ul>
       <li>NestJS 🐺</li>
       <li>Express.js 🚅</li>
-      <li>FastAPI ⚡️</li>
     </ul>
   </li>
   <li><strong>Databases</strong>
