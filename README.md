@@ -117,6 +117,4 @@
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=idmaksim&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/dmaksim?theme=nord&font=ABeeZee&ext=heatmap)
-
 </details>
