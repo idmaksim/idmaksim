@@ -2,7 +2,7 @@
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/>
 </h1>
 <p>
-<img align="center" src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Junior+backend+developer">
+<img align="center" src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Junior%2B+backend+developer">
 </p>
 
 ## :link: Contacts 
