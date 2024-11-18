@@ -2,17 +2,21 @@
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/>
 </h1>
 
-## :link: Contacts 
--  **[Habr career](https://career.habr.com/idmaksim)**
--  **[Head Hunter](https://hh.ru/resume/2cab0c6eff0dc71c610039ed1f79674f754159)**
--  **[Telegram](https://t.me/demamaxim)**
+<h3 align="center">
+  :link:
+  <a href="https://career.habr.com/idmaksim">Habr Career</a> |
+  <a href="https://t.me/demamaxim">Telegram</a> |
+  <a href="https://hh.ru/resume/2cab0c6eff0dc71c610039ed1f7967 4f754159">Head Hunter</a>
+  :link:
+</h1>
 
 
-## 💡 Languages
-  ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-  ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
-  ![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white)
-
+<h2 align="center">💡 Languages 💡</h2>
+<div align="center">
+  <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white"/>
+</div>
   
 ## :hammer: Technologies, Libraries and Frameworks
 ![Nest.js](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
