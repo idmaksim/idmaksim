@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm <a href="https://t.me/demamaxim" target="_blank">Maxim</a> 
-  I'm a junior+ backend developer in @GravitinoUp
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/>
 </h1>
+  <p align="center" >I'm a <strong>Junior+ Backend developer</strong> in <b><a href="https://github.com/gravitinoUp/">@GravitinoUp</a></b></p>
 
 <h3 align="center">
   :link:
