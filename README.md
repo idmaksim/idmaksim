@@ -48,7 +48,7 @@
 <details>
 <summary align="center"><h3>Text view (more than in the images)</b></summary>
 
-<table>
+<table align="center">
   <tr>
     <th>Frameworks</th>
     <th>Databases</th>
