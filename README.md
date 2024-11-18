@@ -28,7 +28,6 @@
   <img src="https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white"/> <img src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens"/> <img src="https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101"/>
 </div>
 
-
 <div align="center">
   <img src="https://img.shields.io/badge/zod-%233068b7.svg?style=for-the-badge&logo=zod&logoColor=white"/> <img src="https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white"/> <img src="https://img.shields.io/badge/web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white"/> <img src="https://img.shields.io/badge/deno%20js-000000?style=for-the-badge&logo=deno&logoColor=white"/>
 </div>
@@ -46,62 +45,91 @@
 </div>
 
 <details>
-<summary><h3>Text view (more than in the images)</b></summary>
+<summary align="center"><h3>Text view (more than in the images)</b></summary>
 
-<ul>
-  <li><strong>Frameworks</strong>
-    <ul>
-      <li>NestJS 🐺</li>
-      <li>Express.js 🚅</li>
-    </ul>
-  </li>
-  <li><strong>Databases</strong>
-    <ul>
-      <li>PostgreSQL 🐘</li>
-      <li>MongoDB 👽</li>
-      <li>Redis 📕</li>
-      <li>Elasticsearch 🔎</li>
-    </ul>
-  </li>
-  <li><strong>ORMs</strong>
-    <ul>
-      <li>Prisma 🔮</li>
-      <li>TypeORM 🐌</li>
-      <li>Mongoose 🐢</li>
-    </ul>
-  </li>
-  <li><strong>Message Brokers</strong>
-    <ul>
-      <li>RabbitMQ 🐰</li>
-      <li>Apache Kafka 🖧</li>
-    </ul>
-  </li>
-  <li><strong>Tools</strong>
-    <ul>
-      <li>Docker 🐳</li>
-      <li>Git ✏️</li>
-      <li>Postman 📬</li>
-    </ul>
-  </li>
-  <li><strong>Testing Tools</strong>
-    <ul>
-      <li>Jest 🧪</li>
-      <li>Pytest 🚩</li>
-    </ul>
-  </li>
-  <li><strong>Other Technologies</strong>
-    <ul>
-      <li>Node.js 🍃</li>
-      <li>JWT 🔑</li>
-      <li>OAuth2 🔐</li>
-      <li>Socket.io 🔌</li>
-      <li>Websockets 🛠️</li>
-      <li>Ethers.js ♢</li>
-      <li>Web3.js 🌐</li>
-      <li>GraphQL ⚛</li>
-    </ul>
-  </li>
-</ul>
+<table>
+  <tr>
+    <th>Frameworks</th>
+    <th>Databases</th>
+    <th>ORMs</th>
+    <th>Message Brokers</th>
+    <th>Tools</th>
+    <th>Testing Tools</th>
+    <th>Other Technologies</th>
+  </tr>
+  <tr>
+    <td>NestJS 🐺</td>
+    <td>PostgreSQL 🐘</td>
+    <td>Prisma 🔮</td>
+    <td>RabbitMQ 🐰</td>
+    <td>Docker 🐳</td>
+    <td>Jest 🧪</td>
+    <td>Node.js 🍃</td>
+  </tr>
+  <tr>
+    <td>Express.js 🚅</td>
+    <td>MongoDB 👽</td>
+    <td>TypeORM 🐌</td>
+    <td>Apache Kafka 🖧</td>
+    <td>Git ✏️</td>
+    <td>Pytest 🚩</td>
+    <td>JWT 🔑</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>Redis 📕</td>
+    <td>Mongoose 🐢</td>
+    <td></td>
+    <td>Postman 📬</td>
+    <td></td>
+    <td>OAuth2 🔐</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>Elasticsearch 🔎</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td>Socket.io 🔌</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td>Websockets 🛠️</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td>Ethers.js ♢</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td>Web3.js 🌐</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td>GraphQL ⚛</td>
+  </tr>
+</table>
 </details>
 
 <h2 align="center">:shipit: Interested in :shipit:</h2>
