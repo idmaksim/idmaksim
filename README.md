@@ -104,10 +104,9 @@
 </ul>
 </details>
 
-  
-## :shipit: Interested in
-- **Backend** :white_check_mark:
-- **Blockchain** :white_check_mark: 
+<h2 align="center">:shipit: Interested in :shipit:</h2>
+<p align="center"><b>:white_check_mark: Backend :white_check_mark:</b></p>
+<p align="center"><b>:white_check_mark: Blockchain :white_check_mark:</b></p>
 
 <details>
 <summary><h2> :bar_chart: Some statistics (Click me -_-) </h2></summary>
