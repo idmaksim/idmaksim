@@ -1,9 +1,6 @@
-<h1>Hi there, I'm <a href="https://t.me/demamaxim" target="_blank">Maxim</a> 
+<h1 align="center">Hi there, I'm <a href="https://t.me/demamaxim" target="_blank">Maxim</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/>
 </h1>
-<p>
-<img align="center" src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Junior%2B+backend+developer">
-</p>
 
 ## :link: Contacts 
 -  **[Habr career](https://career.habr.com/idmaksim)**
@@ -113,6 +110,8 @@
 <details>
 <summary><h2> :bar_chart: Some statistics (Click me -_-) </h2></summary>
   
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=idmaksim&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![idmaksim's github stats](https://github-readme-stats.vercel.app/api?username=idmaksim&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
+
+[![idmaksim's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=idmaksim&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
 
 </details>
