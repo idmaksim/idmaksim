@@ -137,10 +137,14 @@
 <p align="center"><b>:white_check_mark: Blockchain :white_check_mark:</b></p>
 
 <details>
-<summary><h2> :bar_chart: Some statistics (Click me -_-) </h2></summary>
-  
-[![idmaksim's github stats](https://github-readme-stats.vercel.app/api?username=idmaksim&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
+<summary align="center"><h2> :bar_chart: Some statistics (Click me -_-) </h2></summary>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=idmaksim&theme=blue-green" align="center">
+</div>
 
-[![idmaksim's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=idmaksim&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
+  <div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=idmaksim&theme=blue-green" align="center">
+</div>
+  
 
 </details>
