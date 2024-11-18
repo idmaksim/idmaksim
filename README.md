@@ -10,7 +10,7 @@
   :link:
 </h1>
 
-
+<br/>
 <h2 align="center">💡 Languages 💡</h2>
 <div align="center">
   <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"/>
@@ -18,6 +18,7 @@
   <img src="https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white"/>
 </div>
 
+<br/>
 <h2 align="center">:hammer: Technologies, Libraries and Frameworks :hammer:</h2>
 
 ![Nest.js](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
