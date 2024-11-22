@@ -141,10 +141,6 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=idmaksim&theme=blue-green" align="center">
 </div>
-
-  <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=idmaksim&theme=blue-green" align="center">
-</div>
   
 
 </details>
