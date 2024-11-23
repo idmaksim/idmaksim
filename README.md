@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm <a href="https://www.youtube.com/watch?v=qw2LU1yS7aw" target="_blank">Maxim</a> 
+<h1 align="center">Hi there, I'm Maxim 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/>
 </h1>
   <p align="center" >I'm a <strong>Backend developer</strong> in <b><a href="https://github.com/gravitinoUp/">@GravitinoUp</a></b></p>
