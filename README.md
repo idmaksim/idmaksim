@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm <a href="https://t.me/demamaxim" target="_blank">Maxim</a> 
+<h1 align="center">Hi there, I'm <a href="https://www.youtube.com/watch?v=qw2LU1yS7aw" target="_blank">Maxim</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/>
 </h1>
   <p align="center" >I'm a <strong>Backend developer</strong> in <b><a href="https://github.com/gravitinoUp/">@GravitinoUp</a></b></p>
@@ -6,7 +6,7 @@
 <h3 align="center">
   :link:
   <a href="https://career.habr.com/idmaksim">Habr Career</a> |
-  <a href="https://t.me/demamaxim">Telegram</a> |
+  <a href="https://t.me/idmksim">Telegram</a> |
   <a href="https://hh.ru/resume/2cab0c6eff0dc71c610039ed1f7967 4f754159">Head Hunter</a>
   :link:
 </h1>
