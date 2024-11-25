@@ -16,6 +16,7 @@
 <div align="center">
   <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"/>
   <img src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white"/>
+  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
 </div>
 
 <br/>
@@ -139,7 +140,11 @@
 <details>
 <summary align="center"><h2> :bar_chart: Some statistics (Click me -_-) </h2></summary>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=idmaksim&theme=blue-green" align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=idmaksim&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" align="center">
+</div>
+<br/>
+<div align="center">
+  <img src=https://github-readme-streak-stats.herokuapp.com/?user=idmaksim&theme=dark&hide_border=false" align="center">
 </div>
   
 
