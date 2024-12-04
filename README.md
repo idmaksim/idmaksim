@@ -144,8 +144,7 @@
 </div>
 <br/>
 <div align="center">
-  <img src=https://github-readme-streak-stats.herokuapp.com/?user=idmaksim&theme=dark&hide_border=false" align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=idmaksim&theme=dark&hide_border=false" align="center">
 </div>
-  
 
 </details>
