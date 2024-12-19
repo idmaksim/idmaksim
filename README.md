@@ -87,7 +87,7 @@
   </tr>
   <tr>
     <td></td>
-    <td>Elasticsearch 🔎</td>
+    <td>Elasticsearch/OpenSearch 🔎</td>
     <td></td>
     <td></td>
     <td></td>
