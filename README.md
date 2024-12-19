@@ -88,7 +88,7 @@
   <tr>
     <td>Echo⚡</td>
     <td>Elasticsearch/OpenSearch 🔎</td>
-    <td></td>
+    <td>GORM :bear:</td>
     <td></td>
     <td></td>
     <td></td>
@@ -129,6 +129,15 @@
     <td></td>
     <td></td>
     <td>GraphQL ⚛</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td>SQL :mag:</td>
   </tr>
 </table>
 </details>
