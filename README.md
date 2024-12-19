@@ -46,7 +46,7 @@
 </div>
 
 <details>
-<summary align="center"><h3>Text view (more than in the images)</b></summary>
+<summary align="center"><h2> :muscle: More skills :muscle: </b></summary>
 
 <table align="center">
   <tr>
