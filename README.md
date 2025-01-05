@@ -19,10 +19,10 @@ I am a **Backend Engineer** at [@GravitinoUp](https://github.com/gravitinoUp/). 
 - ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 <details>
-<summary>⚙️ Technologies and Tools</summary>
+<summary><h3>⚙️ Technologies and Tools</h3></summary>
 
 <details>
-<summary>Frameworks</summary>
+<summary><h4>Frameworks</h4></summary>
 
 - ![NestJS](https://img.shields.io/badge/NestJS-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
 - ![Echo](https://img.shields.io/badge/Echo-%2300ADD8?style=for-the-badge&logo=echo&logoColor=white)
@@ -31,7 +31,7 @@ I am a **Backend Engineer** at [@GravitinoUp](https://github.com/gravitinoUp/). 
 </details>
 
 <details>
-<summary>Databases</summary>
+<summary><h4>Databases</h4></summary>
 
 - ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 - ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
@@ -40,7 +40,7 @@ I am a **Backend Engineer** at [@GravitinoUp](https://github.com/gravitinoUp/). 
 </details>
 
 <details>
-<summary>ORM</summary>
+<summary><h4>ORM</h4></summary>
 
 - ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
 - ![TypeORM](https://img.shields.io/badge/TypeORM-%23323330.svg?style=for-the-badge&logo=typeorm&logoColor=white)
@@ -49,14 +49,14 @@ I am a **Backend Engineer** at [@GravitinoUp](https://github.com/gravitinoUp/). 
 </details>
 
 <details>
-<summary>Message Brokers</summary>
+<summary><h4>Message Brokers</h4></summary>
 
 - ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
 - ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka)
 </details>
 
 <details>
-<summary>Tools</summary>
+<summary><h4>Tools</h4></summary>
 
 - ![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 - ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
@@ -65,7 +65,7 @@ I am a **Backend Engineer** at [@GravitinoUp](https://github.com/gravitinoUp/). 
 </details>
 
 <details>
-<summary>Other Technologies</summary>
+<summary><h4>Other Technologies</h4></summary>
 
 - ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
 - ![OAuth2](https://img.shields.io/badge/OAuth2-%237159c1.svg?style=for-the-badge&logo=oauth2&logoColor=white)
@@ -78,7 +78,7 @@ I am a **Backend Engineer** at [@GravitinoUp](https://github.com/gravitinoUp/). 
 </details>
 
 <details>
-<summary>Testing</summary>
+<summary><h4>Testing</h4></summary>
 
 - ![Jest](https://img.shields.io/badge/Jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
 - ![Pytest](https://img.shields.io/badge/Pytest-FF6347?style=for-the-badge&logo=pytest&logoColor=white)
