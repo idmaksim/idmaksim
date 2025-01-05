@@ -4,6 +4,13 @@
 
 I am a **Backend Engineer** at [@GravitinoUp](https://github.com/gravitinoUp/). I specialize in **backend** development using `Golang` and `Node.js`, and I also write smart contracts in `Solidity`.
 
+### 🏢 **Public** projects at **Gravitino**
+
+Projects where I served as Lead Backend Developer:
+
+- [🛍️ Gravitino Shop](https://shop.gravitino.ru/) - Corporate E-commerce Platform
+- [🎗️ Vnuki Pobedy](https://vnuki-pobedy.ru/) - Social Project for Historical Memory Preservation
+
 ### 📫 Contacts
 
 - [🌐 Habr Career](https://career.habr.com/idmaksim)
@@ -64,7 +71,6 @@ I am a **Backend Engineer** at [@GravitinoUp](https://github.com/gravitinoUp/). 
 - ![Ethers.js](https://img.shields.io/badge/Ethers.js-000000?style=for-the-badge&logo=ethersdotjs&logoColor=white)
 - ![Web3.js](https://img.shields.io/badge/Web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white)
 - ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
-
 
 #### Testing
 
