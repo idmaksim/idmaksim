@@ -53,11 +53,6 @@ I am a **Backend Engineer** at [@GravitinoUp](https://github.com/gravitinoUp/). 
   - ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
   - ![Swagger](https://img.shields.io/badge/Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
 
-- **Testing:**
-
-  - ![Jest](https://img.shields.io/badge/Jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
-  - ![Pytest](https://img.shields.io/badge/Pytest-FF6347?style=for-the-badge&logo=pytest&logoColor=white)
-
 - **Other Technologies:**
 
   - ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
@@ -69,6 +64,11 @@ I am a **Backend Engineer** at [@GravitinoUp](https://github.com/gravitinoUp/). 
   - ![Web3.js](https://img.shields.io/badge/Web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white)
   - ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
   - ![SQL](https://img.shields.io/badge/SQL-blue?style=for-the-badge&logo=sql&logoColor=white)
+
+- **Testing:**
+
+  - ![Jest](https://img.shields.io/badge/Jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
+  - ![Pytest](https://img.shields.io/badge/Pytest-FF6347?style=for-the-badge&logo=pytest&logoColor=white)
 
 ## 🚀 Interests
 
