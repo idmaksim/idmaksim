@@ -1,10 +1,8 @@
 # 👋 Hi there
 
-![Greeting](https://github.com/blackcater/blackcater/raw/main/images/Hi.gif)
-
 ## 🛠 About Me
 
-I am a **Backend Engineer** at [@GravitinoUp](https://github.com/gravitinoUp/).
+I am a **Backend Engineer** at [@GravitinoUp](https://github.com/gravitinoUp/). I specialize in backend development using Golang and Node.js, and I also write smart contracts in Solidity.
 
 ### 📫 Contacts
 
