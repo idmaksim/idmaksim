@@ -22,8 +22,8 @@ I am a **Backend Engineer** at [@GravitinoUp](https://github.com/gravitinoUp/). 
 
 - **Frameworks:**
   ![NestJS](https://img.shields.io/badge/NestJS-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
-  ![Echo](https://img.shields.io/badge/Echo-000000?style=for-the-badge&logo=echo&logoColor=white)
-  ![Gin](https://img.shields.io/badge/Gin-000000?style=for-the-badge&logo=gin&logoColor=white)
+  ![Echo](https://img.shields.io/badge/Echo-%2300ADD8?style=for-the-badge&logo=echo&logoColor=white)
+  ![Gin](https://img.shields.io/badge/Gin-%2300ADD8?style=for-the-badge&logo=gin&logoColor=white)
   ![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 - **Databases:**
   ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%234ea94b.svg?style=for-the-badge&logo=postgresql&logoColor=white)
