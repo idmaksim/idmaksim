@@ -26,7 +26,7 @@ I am a **Backend Engineer** at [@GravitinoUp](https://github.com/gravitinoUp/). 
   ![Gin](https://img.shields.io/badge/Gin-%2300ADD8?style=for-the-badge&logo=gin&logoColor=white)
   ![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 - **Databases:**
-  ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%234ea94b.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+  ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
   ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
   ![Redis](https://img.shields.io/badge/Redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
   ![Elasticsearch](https://img.shields.io/badge/Elasticsearch-%230377CC.svg?style=for-the-badge&logo=elasticsearch&logoColor=white)
@@ -51,6 +51,7 @@ I am a **Backend Engineer** at [@GravitinoUp](https://github.com/gravitinoUp/). 
   ![OAuth2](https://img.shields.io/badge/OAuth2-%237159c1.svg?style=for-the-badge&logo=oauth2&logoColor=white)
   ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101)
   ![Websockets](https://img.shields.io/badge/Websockets-1f425f?style=for-the-badge&logo=websockets&logoColor=white)
+
   ![Ethers.js](https://img.shields.io/badge/Ethers.js-000000?style=for-the-badge&logo=ethersdotjs&logoColor=white)
   ![Web3.js](https://img.shields.io/badge/Web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white)
   ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
