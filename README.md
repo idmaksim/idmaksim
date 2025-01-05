@@ -16,6 +16,7 @@ I am a **Backend Engineer** at [@GravitinoUp](https://github.com/gravitinoUp/). 
 
 - ![Go](https://img.shields.io/badge/Go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
 - ![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+- ![SQL](https://img.shields.io/badge/SQL-blue?style=for-the-badge&logo=sql&logoColor=white)
 - ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 <details>
@@ -63,7 +64,7 @@ I am a **Backend Engineer** at [@GravitinoUp](https://github.com/gravitinoUp/). 
 - ![Ethers.js](https://img.shields.io/badge/Ethers.js-000000?style=for-the-badge&logo=ethersdotjs&logoColor=white)
 - ![Web3.js](https://img.shields.io/badge/Web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white)
 - ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
-- ![SQL](https://img.shields.io/badge/SQL-blue?style=for-the-badge&logo=sql&logoColor=white)
+
 
 #### Testing
 
