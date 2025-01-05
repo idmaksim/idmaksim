@@ -1,159 +1,69 @@
-<h1 align="center">Hi there, I'm Maxim 
-<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/>
-</h1>
-  <p align="center" >I'm a <strong>Backend Engineer</strong> in <b><a href="https://github.com/gravitinoUp/">@GravitinoUp</a></b></p>
+# 👋 Hi there
 
-<h3 align="center">
-  :link:
-  <a href="https://career.habr.com/idmaksim">Habr Career</a> |
-  <a href="https://t.me/idmksim">Telegram</a> |
-  <a href="https://hh.ru/resume/2cab0c6eff0dc71c610039ed1f7967 4f754159">Head Hunter</a>
-  :link:
-</h1>
+![Greeting](https://github.com/blackcater/blackcater/raw/main/images/Hi.gif)
 
-<br/>
-<h2 align="center">💡 Languages 💡</h2>
-<div align="center">
-  <img src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white"/>
-  <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
-</div>
+## 🛠 About Me
 
-<br/>
-<h2 align="center">:hammer: Technologies, Libraries and Frameworks :hammer:</h2>
-<div align="center">
-  <img src="https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white"/> <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB"/> <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"/>
-</div>
+I am a **Backend Engineer** at [@GravitinoUp](https://github.com/gravitinoUp/).
 
-<div align="center">
-  <img src="https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white"/> <img src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens"/> <img src="https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101"/> <img src="https://img.shields.io/badge/Bun-%23000000.svg?style=for-the-badge&logo=bun&logoColor=white"/>
-</div>
+### 📫 Contacts
 
-<div align="center">
-  <img src="https://img.shields.io/badge/zod-%233068b7.svg?style=for-the-badge&logo=zod&logoColor=white"/> <img src="https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white"/> <img src="https://img.shields.io/badge/web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white"/>
-</div>
+- [🌐 Habr Career](https://career.habr.com/idmaksim)
+- [💬 Telegram](https://t.me/idmksim)
+- [🔍 Head Hunter](https://hh.ru/resume/2cab0c6eff0dc71c610039ed1f796744f754159)
 
-<div align="center">
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>  <img src="https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white"/> <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/>
-</div>
+## 💡 Skills
 
-<div align="center">
-  <img src="https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white"/> <img src="https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka"/> <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"/> <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white"/>
-</div>
+### 📝 Programming Languages
 
-<div align="center">
-  <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"/> <img src="https://img.shields.io/badge/Rabbitmq-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white"/> <img src="https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white"/> <img src="https://img.shields.io/badge/elasticsearch-%230377CC.svg?style=for-the-badge&logo=elasticsearch&logoColor=white"/>
-</div>
+- ![Go](https://img.shields.io/badge/Go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
+- ![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+- ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
-<details>
-<summary align="center"><h2> :muscle: More skills :muscle: </b></summary>
+### ⚙️ Technologies and Tools
 
-<table align="center">
-  <tr>
-    <th>Frameworks</th>
-    <th>Databases</th>
-    <th>ORMs</th>
-    <th>Message Brokers</th>
-    <th>Tools</th>
-    <th>Testing Tools</th>
-    <th>Other Technologies</th>
-  </tr>
-  <tr>
-    <td>NestJS 🐺</td>
-    <td>PostgreSQL 🐘</td>
-    <td>Prisma 🔮</td>
-    <td>RabbitMQ 🐰</td>
-    <td>Docker 🐳</td>
-    <td>Jest 🧪</td>
-    <td>Node.js 🍃</td>
-  </tr>
-  <tr>
-    <td>Express.js 🚅</td>
-    <td>MongoDB 👽</td>
-    <td>TypeORM 🐌</td>
-    <td>Apache Kafka 🖧</td>
-    <td>Git ✏️</td>
-    <td>Pytest 🚩</td>
-    <td>JWT 🔑</td>
-  </tr>
-  <tr>
-    <td>Gin 🍋</td>
-    <td>Redis 📕</td>
-    <td>Mongoose 🐢</td>
-    <td></td>
-    <td>Postman 📬</td>
-    <td></td>
-    <td>OAuth2 🔐</td>
-  </tr>
-  <tr>
-    <td>Echo⚡</td>
-    <td>Elasticsearch/OpenSearch 🔎</td>
-    <td>GORM :bear:</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td>Socket.io 🔌</td>
-  </tr>
-  <tr>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td>Websockets 🛠️</td>
-  </tr>
-  <tr>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td>Ethers.js ♢</td>
-  </tr>
-  <tr>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td>Web3.js 🌐</td>
-  </tr>
-  <tr>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td>GraphQL ⚛</td>
-  </tr>
-  <tr>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td>SQL :mag:</td>
-  </tr>
-</table>
-</details>
+- **Frameworks:**
+  ![NestJS](https://img.shields.io/badge/NestJS-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
+  ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+  ![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+- **Databases:**
+  ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%234ea94b.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+  ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+  ![Redis](https://img.shields.io/badge/Redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
+  ![Elasticsearch](https://img.shields.io/badge/Elasticsearch-%230377CC.svg?style=for-the-badge&logo=elasticsearch&logoColor=white)
+- **ORM:**
+  ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
+  ![TypeORM](https://img.shields.io/badge/TypeORM-%23323330.svg?style=for-the-badge&logo=typeorm&logoColor=white)
+  ![Mongoose](https://img.shields.io/badge/Mongoose-%234aa94b.svg?style=for-the-badge&logo=mongoose&logoColor=white)
+  ![GORM](https://img.shields.io/badge/GORM-%230077CC.svg?style=for-the-badge&logo=go&logoColor=white)
+- **Message Brokers:**
+  ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
+  ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka)
+- **Tools:**
+  ![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+  ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+  ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+  ![Swagger](https://img.shields.io/badge/Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
+- **Testing:**
+  ![Jest](https://img.shields.io/badge/Jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
+  ![Pytest](https://img.shields.io/badge/Pytest-FF6347?style=for-the-badge&logo=pytest&logoColor=white)
+- **Other Technologies:**
+  ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
+  ![OAuth2](https://img.shields.io/badge/OAuth2-%237159c1.svg?style=for-the-badge&logo=oauth2&logoColor=white)
+  ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101)
+  ![Websockets](https://img.shields.io/badge/Websockets-1f425f?style=for-the-badge&logo=websockets&logoColor=white)
+  ![Ethers.js](https://img.shields.io/badge/Ethers.js-000000?style=for-the-badge&logo=ethersdotjs&logoColor=white)
+  ![Web3.js](https://img.shields.io/badge/Web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white)
+  ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+  ![SQL](https://img.shields.io/badge/SQL-blue?style=for-the-badge&logo=sql&logoColor=white)
 
-<h2 align="center">:shipit: Interested in :shipit:</h2>
-<p align="center"><b>:white_check_mark: Backend :white_check_mark:</b></p>
-<p align="center"><b>:white_check_mark: Blockchain :white_check_mark:</b></p>
+## 🚀 Interests
 
-<details>
-<summary align="center"><h2> :bar_chart: Some statistics (Click me -_-) </h2></summary>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=idmaksim&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" align="center">
-</div>
-<br/>
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=idmaksim&theme=dark&hide_border=false" align="center">
-</div>
+- 🖥 **Backend Development**
+- 🔗 **Blockchain Technologies**
 
-</details>
+## 📈 Statistics
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=idmaksim&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+![Streak Statistics](https://github-readme-streak-stats.herokuapp.com/?user=idmaksim&theme=dark&hide_border=false)
