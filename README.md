@@ -14,12 +14,10 @@ Projects where I served as Lead Backend Developer:
 ### 📫 **Personal** projects
 
 - [📊 Weather Telegram Bot](https://t.me/atmos_alert_bot)
-
   - OpenWeatherMap API integration
   - Telegram bot API integration by grammY framework
 
 - [🔗 CV Telegram Bot](https://t.me/dmaksim_cv_bot)
-
   - Interactive CV in Telegram
   - Telegram bot API integration by grammY framework
   - PostgresSQL integration by Prisma ORM
