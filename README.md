@@ -20,7 +20,7 @@ Projects where I served as Lead Backend Developer:
 - [🔗 CV Telegram Bot](https://t.me/dmaksim_cv_bot)
   - Interactive CV in Telegram
   - Telegram bot API integration by grammY framework
-  - PostgresSQL integration by Prisma ORM
+  - PostgreSQL integration by Prisma ORM
 
 ### 📫 Contacts
 
