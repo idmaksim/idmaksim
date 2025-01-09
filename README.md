@@ -24,7 +24,7 @@ Projects where I served as Lead Backend Developer:
 
 - [🖼️ Image Augmentor](https://github.com/idmaksim/img-augmentor)
   <details>
-  - <summary>Features</summary>
+  <summary>Features</summary>
 
   - CLI tool for image dataset augmentation
   - High-performance Go implementation
