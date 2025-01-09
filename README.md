@@ -24,6 +24,15 @@ Projects where I served as Lead Backend Developer:
 - [💬 Telegram](https://t.me/idmksim)
 - [🔍 Head Hunter](https://hh.ru/resume/2cab0c6eff0dc71c610039ed1f796744f754159)
 
+### 🛠️ **CLI** projects
+
+- [🖼️ Image Augmentor](https://github.com/idmaksim/img-augmentor)
+  - CLI tool for image dataset augmentation
+  - High-performance Go implementation
+  - TUI interface using Bubble Tea
+  - Batch processing and ZIP archives support
+  - Various augmentation methods (rotation, brightness, contrast)
+
 ## 💡 Skills
 
 ### 📝 Programming Languages
