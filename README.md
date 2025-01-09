@@ -12,11 +12,6 @@ Projects where I served as Lead Backend Developer:
 - [🎗️ Vnuki Pobedy](https://vnuki-pobedy.ru/) - Social Project for Historical Memory Preservation
 
 ### 📫 **Personal** projects
-
-- [📊 Weather Telegram Bot](https://t.me/atmos_alert_bot)
-  - OpenWeatherMap API integration
-  - Telegram bot API integration by grammY framework
-
 - [🔗 CV Telegram Bot](https://t.me/dmaksim_cv_bot)
   - Interactive CV in Telegram
   - Telegram bot API integration by grammY framework
