@@ -14,17 +14,24 @@ Projects where I served as Lead Backend Developer:
 ### 📫 **Personal** projects
 
 - [🔗 CV Telegram Bot](https://t.me/dmaksim_cv_bot)
+  <details>
+  <summary>Features</summary>
 
   - Interactive CV in Telegram
   - Telegram bot API integration by grammY framework
   - PostgreSQL integration by Prisma ORM
+  </details>
 
 - [🖼️ Image Augmentor](https://github.com/idmaksim/img-augmentor)
+  <details>
+  - <summary>Features</summary>
+
   - CLI tool for image dataset augmentation
   - High-performance Go implementation
   - TUI interface using Bubble Tea
   - Batch processing and ZIP archives support
   - Various augmentation methods (rotation, brightness, contrast)
+  </details>
 
 ### 📫 Contacts
 
