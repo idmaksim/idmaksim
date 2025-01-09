@@ -14,6 +14,7 @@ Projects where I served as Lead Backend Developer:
 ### 📫 **Personal** projects
 
 - [📊 Weather Telegram Bot](https://t.me/atmos_alert_bot)
+
   - OpenWeatherMap API integration
   - Telegram bot API integration by grammY framework
 
@@ -40,7 +41,7 @@ Projects where I served as Lead Backend Developer:
 <details>
 <summary><h3>⚙️ Technologies and Tools</h3></summary>
 
-#### Frameworks
+#### Backend Libs/Frameworks
 
 - ![NestJS](https://img.shields.io/badge/NestJS-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
 - ![Echo](https://img.shields.io/badge/Echo-%2300ADD8?style=for-the-badge&logo=echo&logoColor=white)
