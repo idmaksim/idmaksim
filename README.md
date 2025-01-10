@@ -4,6 +4,11 @@
 
 I am a **Backend Engineer** at [@GravitinoUp](https://github.com/gravitinoUp/). I specialize in **backend** development using `Golang` and `Node.js`, and I also write smart contracts in `Solidity`.
 
+### 👀 Watch my CV
+
+[🤖 Check out my interactive CV in Telegram Bot](https://t.me/dmaksim_cv_bot)
+
+
 ### 🏢 **Public** projects at **Gravitino**
 
 Projects where I served as Lead Backend Developer:
@@ -11,9 +16,6 @@ Projects where I served as Lead Backend Developer:
 - [🛍️ Gravitino Shop](https://shop.gravitino.ru/) - Corporate E-commerce Platform
 - [🎗️ Vnuki Pobedy](https://vnuki-pobedy.ru/) - Social Project for Historical Memory Preservation
 
-### 👀 Watch my CV
-
-[🤖 Check out my interactive CV in Telegram Bot](https://t.me/dmaksim_cv_bot)
 
 ### 📫 Contacts
 
