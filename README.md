@@ -82,7 +82,7 @@ Projects where I served as Lead Backend Developer:
 ## 🚀 Interests
 
 - 🖥 **Backend Development**
-- 🔗 **Blockchain Technologies**
+- 🔗 **Software architecture**
 
 ## 📈 Statistics
 
