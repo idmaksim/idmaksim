@@ -21,20 +21,24 @@ Projects where I served as Lead Backend Developer:
 ## 💡 Skills
 
 ### 📝 Programming Languages
-
-- ![Go](https://img.shields.io/badge/Go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
-- ![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-- ![SQL](https://img.shields.io/badge/SQL-blue?style=for-the-badge&logo=sql&logoColor=white)
+![Go](https://img.shields.io/badge/Go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)  
+![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) 
+![C#](https://img.shields.io/badge/c%23-%233c14ff.svg?style=for-the-badge&logo=csharp&logoColor=white) 
+![SQL](https://img.shields.io/badge/SQL-blue?style=for-the-badge&logo=sql&logoColor=white) 
 
 <details>
 <summary><h3>⚙️ Technologies and Tools</h3></summary>
+
+#### Platforms
+- ![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+- ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
+- ![Bun](https://img.shields.io/badge/Bun-%23000000.svg?style=for-the-badge&logo=bun&logoColor=white)
 
 #### Backend Libs/Frameworks
 
 - ![NestJS](https://img.shields.io/badge/NestJS-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
 - ![Echo](https://img.shields.io/badge/Echo-%2300ADD8?style=for-the-badge&logo=echo&logoColor=white)
 - ![Gin](https://img.shields.io/badge/Gin-%2300ADD8?style=for-the-badge&logo=gin&logoColor=white)
-- ![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 
 #### Databases
 
