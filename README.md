@@ -2,7 +2,7 @@
 
 ## 🛠 About Me
 
-I am a **Backend Engineer** at [@GravitinoUp](https://github.com/gravitinoUp/). I specialize in **backend** development using `Golang` and `Node.js`, and I also write smart contracts in `Solidity`.
+I am a **Backend Engineer** at [@GravitinoUp](https://github.com/gravitinoUp/). I specialize in **backend** development using `Golang`, `Node.js` and `.NET`, and I also write games with `Unity`.
 
 ### 🏢 **Public** projects at **Gravitino**
 
