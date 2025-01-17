@@ -38,6 +38,7 @@ Projects where I served as Lead Backend Developer:
 
 - ![NestJS](https://img.shields.io/badge/NestJS-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
 - ![Echo](https://img.shields.io/badge/Echo-%2300ADD8?style=for-the-badge&logo=echo&logoColor=white)
+- ![Echo](https://img.shields.io/badge/ASP.NET-%233c14ff?style=for-the-badge&logo=echo&logoColor=white)
 - ![Gin](https://img.shields.io/badge/Gin-%2300ADD8?style=for-the-badge&logo=gin&logoColor=white)
 
 #### Databases
@@ -52,6 +53,7 @@ Projects where I served as Lead Backend Developer:
 - ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
 - ![TypeORM](https://img.shields.io/badge/TypeORM-%23323330.svg?style=for-the-badge&logo=typeorm&logoColor=white)
 - ![Mongoose](https://img.shields.io/badge/Mongoose-%234aa94b.svg?style=for-the-badge&logo=mongoose&logoColor=white)
+- ![Echo](https://img.shields.io/badge/Entity%20Framework-%233c14ff?style=for-the-badge&logo=echo&logoColor=white)
 - ![GORM](https://img.shields.io/badge/GORM-%230077CC.svg?style=for-the-badge&logo=go&logoColor=white)
 
 #### Message Brokers
@@ -72,8 +74,6 @@ Projects where I served as Lead Backend Developer:
 - ![OAuth2](https://img.shields.io/badge/OAuth2-%237159c1.svg?style=for-the-badge&logo=oauth2&logoColor=white)
 - ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101)
 - ![Websockets](https://img.shields.io/badge/Websockets-1f425f?style=for-the-badge&logo=websockets&logoColor=white)
-- ![Ethers.js](https://img.shields.io/badge/Ethers.js-000000?style=for-the-badge&logo=ethersdotjs&logoColor=white)
-- ![Web3.js](https://img.shields.io/badge/Web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white)
 - ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 
 #### Testing
