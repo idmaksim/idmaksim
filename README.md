@@ -2,7 +2,7 @@
 
 ## 🛠 About Me
 
-I am a **Backend Engineer** at [@GravitinoUp](https://github.com/gravitinoUp/). I specialize in **backend** development using `Golang`, `Node.js` and `.NET`, and I also write games with `Unity`.
+I am a **Backend Engineer** at [@GravitinoUp](https://github.com/gravitinoUp/). I specialize in **backend** development using `Golang`, and `Node.js`.
 
 ### 🏢 **Public** projects at **Gravitino**
 
@@ -23,7 +23,6 @@ Projects where I served as Lead Backend Developer:
 ### 📝 Programming Languages
 ![Go](https://img.shields.io/badge/Go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) 
 ![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) 
-![C#](https://img.shields.io/badge/c%23-%233c14ff.svg?style=for-the-badge&logo=csharp&logoColor=white) 
 ![SQL](https://img.shields.io/badge/SQL-blue?style=for-the-badge&logo=sql&logoColor=white) 
 
 <details>
@@ -31,14 +30,12 @@ Projects where I served as Lead Backend Developer:
 
 #### Platforms
 - ![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-- ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 - ![Bun](https://img.shields.io/badge/Bun-%23000000.svg?style=for-the-badge&logo=bun&logoColor=white)
 
 #### Backend Libs/Frameworks
 
 - ![NestJS](https://img.shields.io/badge/NestJS-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
 - ![Echo](https://img.shields.io/badge/Echo-%2300ADD8?style=for-the-badge&logo=echo&logoColor=white)
-- ![Echo](https://img.shields.io/badge/ASP.NET-%233c14ff?style=for-the-badge&logo=echo&logoColor=white)
 - ![Gin](https://img.shields.io/badge/Gin-%2300ADD8?style=for-the-badge&logo=gin&logoColor=white)
 
 #### Databases
@@ -53,7 +50,6 @@ Projects where I served as Lead Backend Developer:
 - ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
 - ![TypeORM](https://img.shields.io/badge/TypeORM-%23323330.svg?style=for-the-badge&logo=typeorm&logoColor=white)
 - ![Mongoose](https://img.shields.io/badge/Mongoose-%234aa94b.svg?style=for-the-badge&logo=mongoose&logoColor=white)
-- ![Echo](https://img.shields.io/badge/Entity%20Framework-%233c14ff?style=for-the-badge&logo=echo&logoColor=white)
 - ![GORM](https://img.shields.io/badge/GORM-%230077CC.svg?style=for-the-badge&logo=go&logoColor=white)
 
 #### Message Brokers
