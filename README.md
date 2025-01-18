@@ -2,7 +2,7 @@
 
 ## 🛠 About Me
 
-I am a **Backend Engineer** at [@GravitinoUp](https://github.com/gravitinoUp/). I specialize in **backend** development using `Golang` and `Node.js`.
+I am a Backend Engineer at [@GravitinoUp](https://github.com/gravitinoUp/). I specialize in **backend development** using `Golang`, `Node.js`, and currently learning `Rust` for system programming and high-performance applications.
 
 ### 🏢 **Public** projects at **Gravitino**
 
