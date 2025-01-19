@@ -2,7 +2,7 @@
 
 ## 🛠 About Me
 
-I am a Backend Engineer at [@GravitinoUp](https://github.com/gravitinoUp/). I specialize in **backend development** using `Golang`, `Node.js`, and currently learning `Rust` for system programming and high-performance applications.
+I am a Backend Engineer at [@GravitinoUp](https://github.com/gravitinoUp/). I specialize in **backend development** using `Golang`, `Node.js`, and currently deepening my knowledge in `System Design` for building fault-tolerant systems, enhancing my skills in `Golang` for high-load systems, and studying `Cloud Native` architectures and `Kubernetes`.
 
 ### 🏢 **Public** projects at **Gravitino**
 
@@ -10,7 +10,6 @@ Projects where I served as Lead Backend Developer:
 
 - [🛍️ Gravitino Shop](https://shop.gravitino.ru/) - Corporate E-commerce Platform
 - [🎗️ Vnuki Pobedy](https://vnuki-pobedy.ru/) - Social Project for Historical Memory Preservation
-
 
 ### 📫 Contacts
 
@@ -21,14 +20,16 @@ Projects where I served as Lead Backend Developer:
 ## 💡 Skills
 
 ### 📝 Programming Languages
-![Go](https://img.shields.io/badge/Go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) 
-![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) 
-![SQL](https://img.shields.io/badge/SQL-blue?style=for-the-badge&logo=sql&logoColor=white) 
+
+![Go](https://img.shields.io/badge/Go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-blue?style=for-the-badge&logo=sql&logoColor=white)
 
 <details>
 <summary><h3>⚙️ Technologies and Tools</h3></summary>
 
 #### Platforms
+
 - ![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 - ![Bun](https://img.shields.io/badge/Bun-%23000000.svg?style=for-the-badge&logo=bun&logoColor=white)
 
