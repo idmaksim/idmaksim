@@ -1,6 +1,6 @@
 # 👋 Hi there
 
-## 🌐 Check my interactive CV [here](https://idmaksim.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-idmaksim.vercel.app-blue?style=for-the-badge&logo=vercel&logoColor=white)](https://idmaksim.vercel.app/)
 
 ## 🛠 About Me
 
