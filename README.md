@@ -8,7 +8,7 @@ I am a Backend Engineer at [@GravitinoUp](https://github.com/gravitinoUp/). I sp
 
 ### 🏢 **Public** projects at **Gravitino**
 
-Projects where I served as Lead Backend Developer:
+Projects where I served as Backend Developer:
 
 - [🛍️ Gravitino Shop](https://shop.gravitino.ru/) - Corporate E-commerce Platform
 - [🎗️ Vnuki Pobedy](https://vnuki-pobedy.ru/) - Social Project for Historical Memory Preservation
