@@ -17,7 +17,7 @@ Projects where I served as Backend Developer:
 
 - [🌐 Habr Career](https://career.habr.com/idmaksim)
 - [💬 Telegram](https://t.me/idmksim)
-- [🔍 Head Hunter](https://hh.ru/resume/2cab0c6eff0dc71c610039ed1f796744f754159)
+- [🔍 Head Hunter](https://hh.ru/resume/fc9169efff0e4e31fa0039ed1f796b43326d50)
 
 ## 💡 Skills
 
