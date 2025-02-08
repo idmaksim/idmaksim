@@ -6,13 +6,6 @@
 
 I am a Backend Engineer at [@GravitinoUp](https://github.com/gravitinoUp/). I specialize in **backend development** using `Golang`, `Node.js`, and currently deepening my knowledge in `System Design` for building fault-tolerant systems, enhancing my skills in `Golang` for high-load systems, and studying `Cloud Native` architectures and `Kubernetes`.
 
-### 🏢 **Public** projects at **Gravitino**
-
-Public projects where I served as Backend Developer:
-
-- [🛍️ Gravitino Shop](https://shop.gravitino.ru/) - Corporate E-commerce Platform
-- [🎗️ Vnuki Pobedy](https://vnuki-pobedy.ru/) - Social Project for Historical Memory Preservation
-
 ### 📫 Contacts
 
 - [🌐 Habr Career](https://career.habr.com/idmaksim)
