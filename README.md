@@ -73,7 +73,7 @@ I am a Backend Engineer at Gravitino. I specialize in **backend development** us
 ---
 
 #### API
-
+![REST](https://img.shields.io/badge/REST-3467eb?style=for-the-badge&logo=rest&logoColor=white)
 ![Websockets](https://img.shields.io/badge/Websockets-1f425f?style=for-the-badge&logo=websockets&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 
