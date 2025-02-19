@@ -38,7 +38,6 @@ I am a Backend Engineer at Gravitino. I specialize in **backend development** us
 ![Fiber](https://img.shields.io/badge/Fiber-%2300ADD8?style=for-the-badge&logo=fiber&logoColor=white)
 
 ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101)
-![AdonisJS](https://img.shields.io/badge/adonisjs-%23220052.svg?style=for-the-badge&logo=adonisjs&logoColor=white)
 
 ---
 
