@@ -12,7 +12,7 @@ I am a Backend Engineer at Gravitino. I specialize in **backend development** us
 
 ## 💡 Skills
 
-### 📝 Programming Languages
+### 📝 Languages i ❤️ and use
 
 ![Go](https://img.shields.io/badge/Go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
