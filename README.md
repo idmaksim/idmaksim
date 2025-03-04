@@ -2,7 +2,7 @@
 
 ## 🛠 About Me
 
-I am a Backend Engineer at Gravitino. I specialize in **backend development** using `Golang`, `Node.js`, and currently deepening my knowledge in `System Design` for building fault-tolerant systems, enhancing my skills in `Golang` for high-load systems, and studying `Cloud Native` architectures and `Kubernetes`.
+I am a Backend Engineer at Gravitino. I specialize in **backend development** using `Golang`, `Node.js`, and currently deepening my knowledge in `System Design` for building fault-tolerant systems, enhancing my skills in `Golang` for high-load systems, and studying `Devops` practices and `Cloud Native` architectures.
 
 ### 📫 Contacts
 
@@ -30,7 +30,7 @@ I am a Backend Engineer at Gravitino. I specialize in **backend development** us
 
 #### Backend Libs/Frameworks
 
-![NestJS](https://img.shields.io/badge/NestJS-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white) ![Fastify](https://img.shields.io/badge/fastify-%23000000.svg?style=for-the-badge&logo=fastify&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white) ![Fastify](https://img.shields.io/badge/fastify-%23000000.svg?style=for-the-badge&logo=fastify&logoColor=white) 
 
 ![Echo](https://img.shields.io/badge/Echo-%2300ADD8?style=for-the-badge&logo=echo&logoColor=white)
 ![Gin](https://img.shields.io/badge/Gin-%2300ADD8?style=for-the-badge&logo=gin&logoColor=white)
