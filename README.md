@@ -2,7 +2,7 @@
 
 ## 🛠 About Me
 
-I am a Backend Engineer at Gravitino. I specialize in **backend development** using `Golang`, `Node.js`, and currently deepening my knowledge in `System Design` for building fault-tolerant systems, enhancing my skills in `Golang` for high-load systems, and studying `Cloud Native` architectures and `Kubernetes`.
+I am a Backend Engineer at Gravitino. I specialize in **backend development** using `Golang`, `Node.js`, and currently deepening my knowledge in `System Design` for building fault-tolerant systems, enhancing my skills in `Golang` for high-load systems, and learning `DevOps`.
 
 ### 📫 Contacts
 
