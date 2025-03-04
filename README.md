@@ -34,7 +34,7 @@ I am a Backend Engineer at Gravitino. I specialize in **backend development** us
 
 ![Echo](https://img.shields.io/badge/Echo-%2300ADD8?style=for-the-badge&logo=echo&logoColor=white)
 ![Gin](https://img.shields.io/badge/Gin-%2300ADD8?style=for-the-badge&logo=gin&logoColor=white)
-![Fiber](https://img.shields.io/badge/Fiber-%2300ADD8?style=for-the-badge&logo=fiber&logoColor=white)
+
 
 ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101)
 
