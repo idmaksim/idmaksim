@@ -30,12 +30,13 @@ I am a Backend Engineer at Gravitino. I specialize in **backend development** us
 
 #### Backend Libs/Frameworks
 
-![NestJS](https://img.shields.io/badge/NestJS-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white) ![Fastify](https://img.shields.io/badge/fastify-%23000000.svg?style=for-the-badge&logo=fastify&logoColor=white) 
+![NestJS](https://img.shields.io/badge/NestJS-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
+![Elysia](https://img.shields.io/badge/elysia-%23220052.svg?style=for-the-badge&logo=elysia&logoColor=white)
 
 ![Echo](https://img.shields.io/badge/Echo-%2300ADD8?style=for-the-badge&logo=echo&logoColor=white)
 ![Gin](https://img.shields.io/badge/Gin-%2300ADD8?style=for-the-badge&logo=gin&logoColor=white)
 
-![Elysia](https://img.shields.io/badge/elysia-%23220052.svg?style=for-the-badge&logo=elysia&logoColor=white)
+![Fastify](https://img.shields.io/badge/fastify-%23000000.svg?style=for-the-badge&logo=fastify&logoColor=white) 
 ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101)
 
 ---
