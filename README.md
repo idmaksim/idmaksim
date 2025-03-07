@@ -46,7 +46,6 @@ I am a Backend Engineer at Gravitino. I specialize in **backend development** us
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ![Redis](https://img.shields.io/badge/Redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
-![Memcached](https://img.shields.io/badge/Memcached-%233b28.svg?style=for-the-badge&logo=memcached&logoColor=white)
 
 ![Elasticsearch](https://img.shields.io/badge/Elasticsearch-%230377CC.svg?style=for-the-badge&logo=elasticsearch&logoColor=white)
 ![Neo4J](https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white)
@@ -101,6 +100,7 @@ I am a Backend Engineer at Gravitino. I specialize in **backend development** us
 
 ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
 ![OAuth2](https://img.shields.io/badge/OAuth2-%237159c1.svg?style=for-the-badge&logo=oauth2&logoColor=white)
+![Memcached](https://img.shields.io/badge/Memcached-%233b28.svg?style=for-the-badge&logo=memcached&logoColor=white)
 
 ---
 
