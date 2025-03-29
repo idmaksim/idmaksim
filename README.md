@@ -61,13 +61,12 @@ Exploring `Rust`.
 #### ORM
 
 ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
-![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white)
+![TypeORM](https://img.shields.io/badge/TypeORM-%23323330.svg?style=for-the-badge&logo=typeorm&logoColor=white)
 
 ![GORM](https://img.shields.io/badge/GORM-%230077CC.svg?style=for-the-badge&logo=go&logoColor=white)
 ![sqlx](https://img.shields.io/badge/sqlx-%230077CC.svg?style=for-the-badge&logo=sqlx&logoColor=white)
 
-![Mongoose](https://img.shields.io/badge/Mongoose-%234aa94b.svg?style=for-the-badge&logo=mongoose&logoColor=white)
-![TypeORM](https://img.shields.io/badge/TypeORM-%23323330.svg?style=for-the-badge&logo=typeorm&logoColor=white)
+![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white)
 
 
 ---
