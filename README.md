@@ -29,6 +29,7 @@ Exploring `Rust`.
 
 ![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Bun](https://img.shields.io/badge/Bun-%23000000.svg?style=for-the-badge&logo=bun&logoColor=white)
+![Tokio](https://img.shields.io/badge/Tokio-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
 
 ---
 
@@ -56,7 +57,7 @@ Exploring `Rust`.
 
 ---
 
-#### ORM
+#### ORM (and not only)
 
 ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
 ![TypeORM](https://img.shields.io/badge/TypeORM-%23323330.svg?style=for-the-badge&logo=typeorm&logoColor=white)
@@ -79,6 +80,7 @@ Exploring `Rust`.
 
 #### API
 ![REST](https://img.shields.io/badge/REST-3467eb?style=for-the-badge&logo=rest&logoColor=white)
+![gRPC](https://img.shields.io/badge/gRPC-008DE4?style=for-the-badge&logo=grpc&logoColor=white)
 ![Websockets](https://img.shields.io/badge/Websockets-1f425f?style=for-the-badge&logo=websockets&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 
@@ -90,6 +92,7 @@ Exploring `Rust`.
 ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
 
 ![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white)
+![Jaeger](https://img.shields.io/badge/Jaeger-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white)
 
 ---
@@ -112,6 +115,7 @@ Exploring `Rust`.
 
 #### Testing
 
+![Testing/Testify](https://img.shields.io/badge/Testing/Testify-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
 ![Jest](https://img.shields.io/badge/Jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
 
 </details>
