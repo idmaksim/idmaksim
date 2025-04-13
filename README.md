@@ -96,6 +96,7 @@ Exploring `Rust`.
 ![Jaeger](https://img.shields.io/badge/Jaeger-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white)
 
+![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
 ---
 
 #### Tools
