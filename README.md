@@ -126,6 +126,7 @@ Exploring `Rust`.
 - 📦 **Backend Development**
 - 🔨 **Software architecture**
 - ☁️ **Cloud-native**
+- 🦀 **Exploring Rust**
 
 ## 📈 Statistics
 
