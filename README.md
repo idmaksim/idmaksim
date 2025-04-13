@@ -23,7 +23,7 @@ Exploring `Rust`.
 ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
 
 <details>
-<summary><h3>⚙️ Technologies and Tools</h3></summary>
+<summary><h3>⚙️ Technologies and Tools (long list)</h3></summary>
 
 #### Platforms
 
