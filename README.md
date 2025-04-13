@@ -12,7 +12,6 @@ Exploring `Rust`.
 
 - [🌐 Habr Career](https://career.habr.com/idmaksim)
 - [💬 Telegram](https://t.me/idmksim)
-- [🔍 Head Hunter](https://hh.ru/resume/fc9169efff0e4e31fa0039ed1f796b43326d50)
 
 ## 💡 Skills
 
