@@ -3,7 +3,7 @@
 ## 🛠 About Me
 
 - **Backend Engineer** at Gravitino, specializing in `Golang` & `Node.js`. 
-- Learning `DevOps, ``System Design` and `Cloud Native` for scalable systems.
+- Learning `DevOps`, `System Design` and `Cloud Native` for scalable systems.
 - Exploring `Rust`.
 
 ### 📫 Contacts
