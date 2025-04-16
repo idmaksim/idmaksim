@@ -63,7 +63,6 @@
 
 ![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Bun](https://img.shields.io/badge/Bun-%23000000.svg?style=for-the-badge&logo=bun&logoColor=white)
-![Tokio](https://img.shields.io/badge/Tokio-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
 
 ---
 
@@ -98,14 +97,6 @@
 ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Swagger](https://img.shields.io/badge/Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
-
----
-
-#### Other Technologies
-
-![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
-![OAuth2](https://img.shields.io/badge/OAuth2-%237159c1.svg?style=for-the-badge&logo=oauth2&logoColor=white)
-![Memcached](https://img.shields.io/badge/Memcached-%233b28.svg?style=for-the-badge&logo=memcached&logoColor=white)
 
 ---
 
