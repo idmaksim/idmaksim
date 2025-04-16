@@ -122,8 +122,8 @@
 ## 🚀 Interests
 
 - 📦 **Backend Development**
+- ☁️ **DevOps**
 - 🔨 **Software architecture**
-- ☁️ **Cloud-native**
 - 🦀 **Exploring Rust**
 
 ## 📈 Statistics
