@@ -23,14 +23,6 @@
 <details>
 <summary><h3>⚙️ Technologies and Tools</h3></summary>
 
-#### Platforms
-
-![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Bun](https://img.shields.io/badge/Bun-%23000000.svg?style=for-the-badge&logo=bun&logoColor=white)
-![Tokio](https://img.shields.io/badge/Tokio-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
-
----
-
 #### Backend Libs/Frameworks
 
 ![NestJS](https://img.shields.io/badge/NestJS-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
@@ -55,6 +47,26 @@
 
 ---
 
+### DevOps
+
+![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
+
+![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white)
+![Jaeger](https://img.shields.io/badge/Jaeger-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white)
+
+![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
+---
+
+#### Platforms
+
+![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Bun](https://img.shields.io/badge/Bun-%23000000.svg?style=for-the-badge&logo=bun&logoColor=white)
+![Tokio](https://img.shields.io/badge/Tokio-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
+
+---
+
 #### ORM (and not only)
 
 ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
@@ -62,9 +74,6 @@
 
 ![GORM](https://img.shields.io/badge/GORM-%230077CC.svg?style=for-the-badge&logo=go&logoColor=white)
 ![sqlx](https://img.shields.io/badge/sqlx-%230077CC.svg?style=for-the-badge&logo=sqlx&logoColor=white)
-
-![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white)
-
 
 ---
 
@@ -82,18 +91,6 @@
 ![Websockets](https://img.shields.io/badge/Websockets-1f425f?style=for-the-badge&logo=websockets&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 
----
-
-### Cloud Native
-
-![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
-
-![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white)
-![Jaeger](https://img.shields.io/badge/Jaeger-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white)
-
-![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
 ---
 
 #### Tools
