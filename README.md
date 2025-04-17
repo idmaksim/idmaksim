@@ -31,6 +31,7 @@
 ![Gin](https://img.shields.io/badge/Gin-%2300ADD8?style=for-the-badge&logo=gin&logoColor=white)
 
 ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
 
 ---
 
