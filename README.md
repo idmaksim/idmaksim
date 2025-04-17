@@ -4,7 +4,6 @@
 
 - **Backend Engineer** at Gravitino, specializing in `Golang` & `Node.js`. 
 - Learning `DevOps`, `System Design` and `Cloud Native` for scalable systems.
-- Exploring `Rust` for infrastructure tools and performance optimization
 
 ### 📫 Contacts
 
@@ -18,7 +17,6 @@
 ![Go](https://img.shields.io/badge/Go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-blue?style=for-the-badge&logo=sql&logoColor=white)
-![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
 
 <details>
 <summary><h3>⚙️ Technologies and Tools</h3></summary>
@@ -66,7 +64,7 @@
 
 ---
 
-#### ORM (and not only)
+#### Data Access
 
 ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
 ![TypeORM](https://img.shields.io/badge/TypeORM-%23323330.svg?style=for-the-badge&logo=typeorm&logoColor=white)
@@ -110,9 +108,8 @@
 ## 🚀 Interests
 
 - 📦 **Backend Development**
-- ☁️ **DevOps**
+- ☁️ **Deep dive into DevOps**
 - 🔨 **Software architecture**
-- 🦀 **Exploring Rust**
 
 ## 📈 Statistics
 
