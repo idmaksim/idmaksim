@@ -69,11 +69,12 @@
 #### Data Access
 
 ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
-![TypeORM](https://img.shields.io/badge/TypeORM-%23323330.svg?style=for-the-badge&logo=typeorm&logoColor=white)
+![sqlalchemy](https://img.shields.io/badge/sqlalchemy-EF3939?style=for-the-badge&logo=sqlalchemy&logoColor=white)
 
 ![GORM](https://img.shields.io/badge/GORM-%230077CC.svg?style=for-the-badge&logo=go&logoColor=white)
 ![sqlx](https://img.shields.io/badge/sqlx-%230077CC.svg?style=for-the-badge&logo=sqlx&logoColor=white)
 
+![TypeORM](https://img.shields.io/badge/TypeORM-%23323330.svg?style=for-the-badge&logo=typeorm&logoColor=white)
 ---
 
 #### Message Brokers
