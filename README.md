@@ -105,6 +105,7 @@
 
 ![Testing/Testify](https://img.shields.io/badge/Testing/Testify-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
 ![Jest](https://img.shields.io/badge/Jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
+![Pytest](https://img.shields.io/badge/pytest-%23ffffff.svg?style=for-the-badge&logo=pytest&logoColor=2f9fe3)
 
 </details>
 
