@@ -112,7 +112,7 @@
 ## 🚀 Interests
 
 - 📦 **Backend Development**
-- ☁️ **Deep dive into DevOps**
+- ☁️ **DevOps**
 - 🔨 **Software architecture**
 
 ## 📈 Statistics
