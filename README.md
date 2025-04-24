@@ -26,7 +26,7 @@
 ![Gin](https://img.shields.io/badge/Gin-00ADD8?style=for-the-badge&logo=gin&logoColor=white)
 ![Echo](https://img.shields.io/badge/Echo-00ADD7?style=for-the-badge&logo=echo&logoColor=white)
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
 
 ![FastAPI](https://img.shields.io/badge/FastAPI-009488?style=for-the-badge&logo=fastapi&logoColor=white)
