@@ -22,7 +22,7 @@
 <details>
 <summary><h3>⚙️ Technologies and Tools</h3></summary>
 
-### 🌐 Backend
+### Backend
 
 ![Gin](https://img.shields.io/badge/Gin-00ADD8?style=for-the-badge&logo=gin&logoColor=white)
 ![Echo](https://img.shields.io/badge/Echo-00ADD7?style=for-the-badge&logo=echo&logoColor=white)
@@ -34,7 +34,7 @@
 
 ---	
 
-### ☁️ Cloud & Infrastructure
+### Cloud & Infrastructure
 ![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
 
@@ -43,7 +43,7 @@
 
 ---
 
-#### 💾 Databases
+### Databases
 
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
@@ -55,7 +55,7 @@
 
 ---
 
-### 📊 Monitoring & Observability
+### Monitoring & Observability
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white)
 ![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white)
 
