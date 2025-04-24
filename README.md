@@ -7,7 +7,6 @@
 
 ### 📫 Contacts
 
-- [🌐 Habr Career](https://career.habr.com/idmaksim)
 - [💬 Telegram](https://t.me/idmksim)
 
 ## 💡 Skills
