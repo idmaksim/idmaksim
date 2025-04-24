@@ -64,7 +64,7 @@
 ---
 
 
-#### Message Brokers
+### Message Brokers
 
 ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
 ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka)
@@ -72,7 +72,7 @@
 
 ---
 
-#### API
+### API
 ![REST](https://img.shields.io/badge/REST-3467eb?style=for-the-badge&logo=rest&logoColor=white)
 ![gRPC](https://img.shields.io/badge/gRPC-008DE4?style=for-the-badge&logo=grpc&logoColor=white)
 ![Websockets](https://img.shields.io/badge/Websockets-1f425f?style=for-the-badge&logo=websockets&logoColor=white)
@@ -80,7 +80,7 @@
 
 ---
 
-#### Tools
+### Tools
 
 ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
@@ -88,7 +88,7 @@
 
 ---
 
-#### Testing
+### Testing
 
 ![Testing/Testify](https://img.shields.io/badge/Testing/Testify-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
 ![Jest](https://img.shields.io/badge/Jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
