@@ -21,6 +21,17 @@
 <details>
 <summary><h3>⚙️ Technologies and Tools</h3></summary>
 
+#### Backend
+
+![Gin](https://img.shields.io/badge/Gin-00ADD8?style=for-the-badge&logo=gin&logoColor=white)
+![Echo](https://img.shields.io/badge/Echo-00ADD7?style=for-the-badge&logo=echo&logoColor=white)
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+
+![FastAPI](https://img.shields.io/badge/FastAPI-009488?style=for-the-badge&logo=fastapi&logoColor=white)
+
+---	
 
 #### 🐳 Containers & Orchestration
 ![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
@@ -46,13 +57,6 @@
 ![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white)
 ![ELK](https://img.shields.io/badge/ELK-005571?style=for-the-badge&logo=elastic-stack&logoColor=white)
 ![Jaeger](https://img.shields.io/badge/Jaeger-%2300ADD8.svg?style=for-the-badge&logo=jaeger&logoColor=white)
-
----
-
-### 🔄 CI/CD
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-![ArgoCD](https://img.shields.io/badge/ArgoCD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
 
 ---
 
