@@ -2,7 +2,8 @@
 
 ## 🛠 About Me
 
-- **Full-cycle Backend Engineer** (Backend, DevOps) at Gravitino, specializing in `Golang` & `Node.js`. 
+- **Backend Engineer** at Gravitino, specializing in `Golang` & `Node.js`.
+- Deepening my knowledge in `DevOps`
 - Learning `System Design` and `Cloud Native` for scalable systems.
 
 ### 📫 Contacts
