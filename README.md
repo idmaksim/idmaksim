@@ -10,9 +10,10 @@
 
 - [💬 Telegram](https://t.me/idmksim)
 
-## 💡 Skills
+<details>
+<summary><h2>💡 My Stack Details</h2></summary>
 
-### ⚒️ Core stack 
+### Core Technologies
 
 ![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
@@ -67,12 +68,6 @@
 
 ---
 
-### API
-![REST](https://img.shields.io/badge/REST-3467eb?style=for-the-badge&logo=rest&logoColor=white)
-![gRPC](https://img.shields.io/badge/gRPC-008DE4?style=for-the-badge&logo=grpc&logoColor=white)
-![Websockets](https://img.shields.io/badge/Websockets-1f425f?style=for-the-badge&logo=websockets&logoColor=white)
-![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
-
 ---
 
 ### Tools
@@ -83,11 +78,7 @@
 
 ---
 
-### Testing
-
-![Testing/Testify](https://img.shields.io/badge/Testing/Testify-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
-![Jest](https://img.shields.io/badge/Jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
-![Pytest](https://img.shields.io/badge/pytest-%23ffffff.svg?style=for-the-badge&logo=pytest&logoColor=2f9fe3)
+</details>
 
 </details>
 
