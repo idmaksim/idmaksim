@@ -2,8 +2,8 @@
 
 ## 🛠 About Me
 
-- **Backend Engineer** at Gravitino, specializing in `Golang` & `Node.js`.
-- Deepening my knowledge in `DevOps`
+- **DevSecOps Engineer**
+- Deepening my knowledge in `Secutiry`, `Architecture` & `Development`
 - Learning `System Design` and `Cloud Native` for scalable systems.
 
 ### 📫 Contacts
@@ -64,9 +64,10 @@
 ## 🚀 Interests
 
 - ☁️ **DevOps & Infrastructure**
-- 🔒 **Security & System Hardening**
-- 🏗️ **System Architecture**
 - 🔥 **Site Reliability Engineering (SRE)**
+- 🌐 **Backend Development**
+- 🏗️ **System Architecture**
+- 🔒 **Security & System Hardening**
 
 
 ## 📈 Statistics
