@@ -65,11 +65,10 @@
 
 ## 🚀 Interests
 
-- ☁️ **DevOps & Infrastructure**
-- 🔥 **Site Reliability Engineering (SRE)**
+- ☁️ **DevOps & Site Reliability Engineering (SRE)**
 - 🔒 **Security & System Hardening**
+- 🛠️ **Platform Engineering**
 - 🏗️ **System Architecture**
-- 🌐 **Backend Development**
 
 
 ## 📈 Statistics
