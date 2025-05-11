@@ -66,9 +66,9 @@
 
 - ☁️ **DevOps & Infrastructure**
 - 🔥 **Site Reliability Engineering (SRE)**
-- 🌐 **Backend Development**
-- 🏗️ **System Architecture**
 - 🔒 **Security & System Hardening**
+- 🏗️ **System Architecture**
+- 🌐 **Backend Development**
 
 
 ## 📈 Statistics
