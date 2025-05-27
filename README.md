@@ -59,7 +59,6 @@
 
 ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
 ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka)
-![NATS](https://img.shields.io/badge/NATS-%2315d4ba?style=for-the-badge&logo=nats)
 
 ### Tools
 
