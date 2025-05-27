@@ -2,7 +2,7 @@
 
 ## 🛠 About Me
 
-- **DevSecOps Engineer**
+- **DevOps Engineer**
 - Deepening my knowledge in `Security`, `Architecture` & `Development`
 - Learning `System Design` and `Cloud Native` for scalable systems.
 
