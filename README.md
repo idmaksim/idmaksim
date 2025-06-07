@@ -20,8 +20,10 @@
 ![Helm](https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white)
 
 
-![pm2](https://img.shields.io/badge/pm2-6DA55F?style=for-the-badge&logo=pm2&logoColor=white)
 ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
+![Vagrant](https://img.shields.io/badge/vagrant-%231563FF.svg?style=for-the-badge&logo=vagrant&logoColor=white)
+![pm2](https://img.shields.io/badge/pm2-6DA55F?style=for-the-badge&logo=pm2&logoColor=white)
+
 
 
 ### Automatization && Scripting
