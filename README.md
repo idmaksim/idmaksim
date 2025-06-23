@@ -34,7 +34,6 @@
 ### Networking
 ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
 ![Traefik](https://img.shields.io/badge/Traefik-24A1C1?style=for-the-badge&logo=traefikproxy&logoColor=white)
-![Apache](https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=apache&logoColor=white)
 ![WireGuard](https://img.shields.io/badge/WireGuard-%2388171A.svg?style=for-the-badge&logo=wireguard&logoColor=white)
 ![Squid](https://img.shields.io/badge/Squid-FF6C37?style=for-the-badge&logo=squid&logoColor=white)
 
